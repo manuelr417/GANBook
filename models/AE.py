@@ -152,7 +152,7 @@ class Autoencoder():
                 , self.use_dropout
                 ], f)
 
-        #self.plot_model(folder)
+        self.plot_model(folder)
 
         
 
